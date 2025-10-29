@@ -1,0 +1,17 @@
+{
+  "name": "@shinmai/cordlify",
+  "version": "1.0.0",
+  "description": "Discord webhook mangler",
+  "author": "shi <ur-pal-shi@pm.me>",
+  "license": "WTFPL",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinmai/cordlify.git"
+  },
+  "files": [
+    "lib",
+    "manifest.yml"
+  ],
+  "packageManager": "npm@11.2.0"
+}
